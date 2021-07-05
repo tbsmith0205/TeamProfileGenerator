@@ -12,7 +12,7 @@ describe("Engineer", () => {
     });
   });
   describe("Functions", () => {
-    it("should provide info when the appropriate function is called", () => {
+    it("should provide info when the corresponding function is called", () => {
       const engineer = new Engineer("John", 2, "john@gmail.com", "john123");
 
       expect(engineer.getName()).toEqual("John");
