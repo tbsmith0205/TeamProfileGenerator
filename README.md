@@ -14,6 +14,8 @@ User needs to run an "npm i" to install all necessary dependencies. Once that is
 
 Run "node index.js" in the command line terminal in order to fill out all necessary information for your team. Additionally, "npm test" can be run in the terminal to run files in the tests folder.
 
+The following video provides an example on the command line prompts and how to run tests: https://drive.google.com/file/d/18rnmUEVgdwl3R02Meebl7K8WWigOpaFP/view?usp=drivesdk
+
 ## Contribution Guidelines
 
 No contributions necessary.
